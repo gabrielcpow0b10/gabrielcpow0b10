@@ -30,10 +30,6 @@ This project explores the operational layer between local AI tools and HomeLab i
 
 Public toolkit foundation for HomeLab status checks, backup dry-run workflows, security scanning, CI validation, and public/private boundary documentation.
 
-### Java OOP Portfolio
-
-Curated Java projects focused on object-oriented programming, data structures, GUI applications, and academic CS practice.
-
 ## Tech stack
 
 Python · TypeScript · Java · Shell · Next.js · Ollama · Linux · GitHub Actions · HomeLab systems
